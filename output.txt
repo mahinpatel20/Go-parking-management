@@ -1,0 +1,9 @@
+--- Car Parking ---
+Vehicle No: GJ01AB1234
+Hours: 4
+Parking Fee: Rs. 120
+
+--- Bike Parking ---
+Vehicle No: GJ01XY5678
+Hours: 3
+Parking Fee: Rs. 45
