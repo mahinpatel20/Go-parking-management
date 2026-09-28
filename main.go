@@ -18,6 +18,7 @@ type Bike struct {
 }
 
 func (c Car) calculate() {
+	fmt.Println("Smart Parking Manager")
 	fmt.Println("\n--- Car Parking ---")
 	fmt.Println("Vehicle No:", c.number)
 	fmt.Println("Hours:", c.hours)
@@ -25,6 +26,7 @@ func (c Car) calculate() {
 }
 
 func (b Bike) calculate() {
+	fmt.Println("Smart Parking Manager")
 	fmt.Println("\n--- Bike Parking ---")
 	fmt.Println("Vehicle No:", b.number)
 	fmt.Println("Hours:", b.hours)
